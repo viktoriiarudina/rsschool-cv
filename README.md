@@ -1,1 +1,1 @@
-https://viktoriiarufina.github.io/rsschool-cv/cv
+https://viktoriiarudina.github.io/rsschool-cv/cv
