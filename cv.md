@@ -1,17 +1,17 @@
 # RUDINA VIKTORIIA
 ## Junior Front-end Developer (HTML Coder)
 
-**City:** Krakow/Kyiv. 
-**Birth date:** 08/07/1995. 
-**Telefon:** +48578631286 / +380639339723   
-**E-mail:** viktoria.nosik@gmail.com. 
+**City:** Krakow/Kyiv  
+**Birth date:** 08/07/1995  
+**Telefon:** +48578631286 / +380639339723  
+**E-mail:** viktoria.nosik@gmail.com  
 
-### Social media
+### SOCIAL MEDIA
 
-**Linkedin:** http://linkedin.com/in/viktoriia-rudina-80a204174/. 
-**Github:** http://github.com/viktoriiarudina. 
-**Skype:** viktoria82077. 
-**Telegram:** t-do.ru/viktoriiarudina. 
+**Linkedin:** http://linkedin.com/in/viktoriia-rudina-80a204174/  
+**Github:** http://github.com/viktoriiarudina  
+**Skype:** viktoria82077  
+**Telegram:** t-do.ru/viktoriiarudina  
 
 
 ### EDUCATION
