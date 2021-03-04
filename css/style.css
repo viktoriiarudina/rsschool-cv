@@ -218,7 +218,8 @@ h3 {
   -webkit-text-fill-color: transparent;
 }
 
-.content > div:nth-child(odd) {
+.content > div:nth-child(odd),
+.info {
   background: rgba(0, 0, 0, 0.05);
 }
 

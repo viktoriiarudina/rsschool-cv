@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rudina Viktoriia</title>
   <link rel="stylesheet" href="css/normalize.css">
@@ -12,7 +13,7 @@
 </head>
 
 <body>
-  <section class="introduction">
+  <header class="introduction">
     <div class="container">
       <div class="avatar">
       </div>
@@ -25,20 +26,25 @@
     <div class="scroll">
       <a class="scroll__link" href="#main"><i class="fas fa-chevron-down"></i></a>
     </div>
-  </section>
-  <div class="main" id="main">
+  </header>
+  <main class="main" id="main">
     <div class="content">
-      <div class="info block" id="info">
+      <section class="info block" id="info">
         <div class="container">
           <i class="fas fa-user-alt icon"></i>
           <h2 class="title">Personal information</h2>
           <p class="info__description text">I love what I do. I started training a year ago. Now I have a good
             theoretical base and commercial experience in real projects. I am interested in creating something new,
             interesting and useful. I develop adaptive and cross-browser sites; pay special attention to accessibility;
-            use the BEM methodology; attentive to details.
+            use the BEM methodology; attentive to details.<br>
+            <br>
+            LANGUAGES:
+              English (Intermediate);  
+              Ukrainian  (Native); 
+              Russian  (Native); 
           </p>
         </div>
-      </div>
+      </section>
       <div class="education block" id="education">
         <div class="container">
           <i class="fas fa-user-graduate icon"></i>
@@ -184,15 +190,15 @@
               <span class="skills-item__text"> Gulp</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--webpack"><img src="images/webpack.png" width="100" height="100" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--webpack"><img src="images/webpack.png" width="100" height="100" alt="icon"></span>
               <span class="skills-item__text">Webpack</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--bem"><img src="images/bem.png" width="60" height="100" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--bem"><img src="images/bem.png" width="60" height="100" alt="icon"></span>
               <span class="skills-item__text"> BEM</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/flexbox.png" width="60" height="100" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/flexbox.png" width="60" height="100" alt="icon"></span>
               <span class="skills-item__text">Flex-box</span>
             </li>
             <li class="skills-item">
@@ -200,19 +206,19 @@
               <span class="skills-item__text">Git</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/Figma-logo.svg" width="50" height="80" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/Figma-logo.svg" width="50" height="80" alt="icon"></span>
               <span class="skills-item__text">Figma</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/avocode.png" width="50" height="80" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/avocode.png" width="50" height="80" alt="icon"></span>
               <span class="skills-item__text">Avacode</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/photoshop.png" width="80" height="80" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/photoshop.png" width="80" height="80" alt="icon"></span>
               <span class="skills-item__text">Photoshop</span>
             </li>
             <li class="skills-item">
-              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/zeplin.png" width="70" height="80" alt=""></span>
+              <span class="skills-item__icon skills-item__icon--flexbox"><img src="images/zeplin.png" width="70" height="80" alt="icon"></span>
               <span class="skills-item__text">Zeplin</span>
             </li>
           </ul>
@@ -238,7 +244,7 @@
             </li>
             <li class="portfolio-item">
               <figure class="portfolio-figure">
-                <img class="portfolio-figure__image" src="images/cat-energy.png" width="300" height="300" alt="Project1">
+                <img class="portfolio-figure__image" src="images/cat-energy.png" width="300" height="300" alt="Project2">
                 <figcaption class="portfolio-figure__description">
                   <h3 class="portfolio-figure__title">Cat Energy</h3>
                   <p class="portfolio-figure__technology">HTML, Sass, Gulp, BEM</p>
@@ -366,7 +372,6 @@
         </div>
       </div>
     </div>
-  </div>
-
+  </main>
 </body>
 </html>
