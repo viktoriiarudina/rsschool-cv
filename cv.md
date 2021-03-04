@@ -16,21 +16,21 @@
 
 ### EDUCATION
 
-09.2012 - 05.2018 - National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"  
+09.2012 - 05.2018 - **National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**     
                     Chemical-technological faculty (Master Degree)  
-05.2019 - 07.2019 - HTML Academy  
+05.2019 - 07.2019 - **HTML Academy**      
                     Professional HTML & CSS, level 1  
                     *Certificate:* https://assets.htmlacademy.ru/certificates/intensive/109/469679.pdf?1561288962  
-07.2019 - 09.2019 - HTML Academy  
+07.2019 - 09.2019 - **HTML Academy**     
                     Professional HTML & CSS, level 2   
                     *Certificate:* https://assets.htmlacademy.ru/certificates/intensive/115/469679.pdf?1566915723  
-09.2019 - 11.2019 - HTML Academy  
+09.2019 - 11.2019 - **HTML Academy**   
                     JavaScript. Professional Development of Web Interfaces   
                     *Certificate:* https://assets.htmlacademy.ru/certificates/intensive/167/469679.pdf?1596180938  
-07.2020 - 09.2020 - HTML Academy  
+07.2020 - 09.2020 - **HTML Academy**    
                     JavaScript. Client Application Architecture  
                     *Certificate:* https://assets.htmlacademy.ru/certificates/intensive/169/469679.pdf?1605872956   
-09.2020 - 12.2020 - HTML Academy  
+09.2020 - 12.2020 - **HTML Academy**    
                     React  
                     Development of Complex Front-end Applications  
                     *Certificate:* https://assets.htmlacademy.ru/certificates/intensive/171/469679.pdf?1606985803  
@@ -59,3 +59,37 @@
 09.2016 - 09.2017 - **Ecosoft**  
                     *Analytical-chemist*  
                     Analysis of drinking water quality  
+                    
+                  
+### SKILLS
+
+*HTML5  
+*CSS3  
+*JavaScript   
+*React  
+*Redux  
+*Gulp/Webpack  
+*Sass  
+*BEM-methodology   
+*Flex-box  
+*Photoshop  
+*Figma  
+*Avocode 
+
+
+### LANGUAGES
+
+*English (Intermediate)    
+*Ukrainian  (Native)  
+*Russian  (Native) 
+
+
+### PORTFOLIO
+
+I develop adaptive and cross-browser sites; pay special attention to accessibility; use the BEM methodology; attentive to details. All my projects are on my Github account.
+Some of them:  
+1) Bio Page: https://viktoriiarudina.github.io/bio-page/  
+2) What-to-watch (React/Redux, video-player): https://viktoriiarudina.github.io/469679-what-to-watch-5/#/  
+3) TODOList (add, edit, delete task): https://viktoriiarudina.github.io/TODOList/  
+4) CatEnergy (education project HTML Academy; desktop, tablet, mobile version): https://viktoriiarudina.github.io/Cat-energy-static-/  
+                   
